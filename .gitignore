@@ -1,0 +1,18 @@
+# Ignore hidden directories
+.metadata/
+.svn/
+.settings/
+
+# Ignore in-progess folders
+basictasksProject3/
+project3midchallenge/
+
+# Remove binaries
+*.bin
+*.o
+*.hex
+*.elf
+*.map
+
+# Remove backup files created by gedit
+*~
